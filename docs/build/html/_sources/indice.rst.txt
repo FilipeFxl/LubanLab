@@ -1,0 +1,39 @@
+Indices and tables
+
+
+* 
+* Processo
+	* Peças
+	* Estações
+		* Estação 10
+		* Estação 20
+		* Estação 30
+		* Estação 40
+		* Estação 50
+* Hardware
+	* Componentes
+		* (Add Then Later)
+	* Equipamentos
+		* (Add Then Later)
+* Software
+	* GEMMA
+	* TIA Portal
+		* Comunicação
+			* Profinet
+			* Modbus
+	* Tesla Scada
+	* Draw io
+* Manuais
+* Lines
+	* Line 11
+		* 2020_2021		
+		* 2021_2022
+		* 2022_2023
+	* Line 12
+		* 2020_2021		
+		* 2021_2022
+		* 2022_2023
+	* Line 13
+		* 2020_2021		
+		* 2021_2022
+		* 2022_2023
