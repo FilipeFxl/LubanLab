@@ -61,8 +61,8 @@ Indice
 
 .. _test2:
 
-TestIndice2
------------
+TestIndice2222
+--------------
 
 * :ref:`test2`
 
