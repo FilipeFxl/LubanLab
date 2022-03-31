@@ -13,7 +13,7 @@ Indice
 
 * `Sphinx`_
 * `Introdução`_
-* `Processo`_
+* :ref:`Processo`
 	* `Peças`_ 
 	* `Estações`_ 
 		* `Estação 10`_ 
@@ -55,7 +55,10 @@ Indice
 
 .. _Introdução: ./indice/indice.html 
 
-.. _Processo: ./indice
+.. _Processo:
+
+Processo
+--------
 
 
 
