@@ -5,9 +5,11 @@
 
 Grupo 10 - SX-185Q
 ==================
+
 .. toctree::
    :maxdepth: 4
    :caption: Contents:
+
 Indice
 ------
 
@@ -48,26 +50,23 @@ Indice
 		* `2020_2021`_ 		
 		* `2021_2022`_ 
 		* `2022_2023`_ 
-* 
+* `Relatório`_
 
 
 .. _Sphinx: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
 
-.. _Introdução: ./indice/indice.html 
+.. _Introdução: ./index/indice.html 
+
+.. _Relatório: ./index/report.html
 
 .. _Processo:
 
 Processo
 --------
+(Add Later)
 
 
 
-.. _test2:
-
-TestIndice2222
---------------
-
-* :ref:`test2`
 
 
 
