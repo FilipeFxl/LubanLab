@@ -14,30 +14,30 @@ Indice
 ------
 
 * `Sphinx`_
-* `Introdução`_
+* :ref:`Introdução`
 * :ref:`Processo`
-	* `Peças`_ 
-	* `Estações`_ 
-		* `Estação 10`_ 
-		* `Estação 20`_
-		* `Estação 30`_
-		* `Estação 40`_ 
-		* `Estação 50`_ 
-* `Hardware`_ 
-	* `Componentes`_ 
-		* `(Add Then Later)`_ 
-	* `Equipamentos`_ 
-		* `(Add Then Later)`_ 
-* `Software`_ 
-	* `GEMMA`_ 
-	* `TIA Portal`_ 
-		* `Comunicação`_ 
-			* `Profinet`_
-			* `Modbus`_ 
-	* `Tesla Scada`_ 
-	* `Draw io`_
-* `Manuais`_ 
-* `Lines`_
+	* Peças
+	* :ref:`Estações`
+		* :ref:`Estacao11`
+		* :ref:`Estacao12`
+		* :ref:`Estacao13`
+		* :ref:`Estacao14`
+  		* :ref:`Estacao15` 
+* :ref:`Hardware`
+	* :ref:`Componentes`
+		* (Add Then Later)
+	* :ref:`Equipamentos`
+		* (Add Then Later)
+* :ref:`Software`
+	* GEMMA
+	* :ref:`TIA_Portal`
+		* :ref:`Comunicacao`
+			* Profinet
+			* Modbus
+	* :ref:`Tesla_Scada`
+	* :ref:`Draw_io`
+* :ref:`Manuais`
+* :ref:`Lines`
 	* `Line 11`_ 
 		* `2020_2021`_		
 		* `2021_2022`_
@@ -55,16 +55,196 @@ Indice
 
 .. _Sphinx: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
 
-.. _Introdução: ./index/intro.html 
+
 
 .. _Relatório: ./index/report.html
 
+
+
+
+.. _Introdução:
+
+Introdução
+----------
+
 .. _Processo:
+
+(Add Later)
 
 Processo
 --------
 
 (Add Later)
+
+.. _Estações:
+
+Estações 
+--------
+
+.. _Estacao11:
+
+Estação 11
+~~~~~~~~~~
+
+(Add Later)
+
+.. _Estacao12:
+
+Estação 12
+~~~~~~~~~~
+
+(*Add Later*)
+
+.. _Estacao13:
+
+Estação 13
+~~~~~~~~~~
+
+(Add Later)
+
+.. _Estacao14:
+
+Estação 14
+~~~~~~~~~~
+
+(Add Later)
+
+.. _Estacao15:
+
+Estação 15
+~~~~~~~~~~
+
+(Add Later)
+
+.. _Hardware:
+
+Hardware
+--------
+
+.. _Componentes:
+
+Componentes
+-----------
+
+.. _Equipamentos:
+
+Equipamentos
+------------
+
+.. _Software:
+
+Software
+--------
+
+.. _TIA_Portal:
+
+TIA Portal
+----------
+
+.. _Comunicacao:
+
+Comunicação
+~~~~~~~~~~~
+
+.. _Tesla_Scada:
+
+Tesla Scada
+-----------
+
+.. _Draw_io:
+
+Draw io 
+-------
+
+.. _Manuais:
+
+Manuais
+-------
+
+.. _Lines:
+
+Lines
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
