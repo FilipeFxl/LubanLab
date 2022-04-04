@@ -14,15 +14,15 @@ Indice
 ------
 
 * `Sphinx`_
-* `Introdução`_
+* :ref:`Introdução`
 * :ref:`Processo`
-	* `Peças`_ 
-	* `Estações`_ 
-		* `Estação 10`_ 
-		* `Estação 20`_
-		* `Estação 30`_
-		* `Estação 40`_ 
-		* `Estação 50`_ 
+	* `Peças`_
+	* :ref:`Estações`
+		* `Estação 11`
+		* `Estação 12`
+		* `Estação 13`
+		* `Estação 14`
+  		* `Estação 15` 
 * `Hardware`_ 
 	* `Componentes`_ 
 		* `(Add Then Later)`_ 
@@ -55,21 +55,45 @@ Indice
 
 .. _Sphinx: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
 
-.. _Introdução: ./index/intro.html 
+
 
 .. _Relatório: ./index/report.html
 
+
+
+
+.. _Introdução:
+
+Introdução
+----------
+
 .. _Processo:
+
+(Add Later)
 
 Processo
 --------
 
 (Add Later)
 
+.. _Estações:
 
+Estações 
+--------
 
+Estações 11
+~~~~~~~~~~~
 
+Estações 12
+~~~~~~~~~~~
 
+Estações 13
+~~~~~~~~~~~
 
+Estações 14
+~~~~~~~~~~~
+
+Estações 15
+~~~~~~~~~~~
 
 
