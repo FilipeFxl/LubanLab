@@ -6,6 +6,7 @@ Indice
 
 * :ref:`semana1`
 * :ref:`semana2`
+* :ref:`semana3`
 
 
 .. _semana1:
@@ -36,4 +37,16 @@ Criação de paginas html utilizando Sphinx
 
 Aprender a fazer um indice
 
-1st Version of LubanLab Doc
+1ª Versao de LubanLab Doc
+
+.. _semana3:
+
+3ª Semana
+---------
+
+Desenvolvimento de LubanLab Doc
+
+Estudo do Robô
+
+Estudo do Controlador do Robô
+

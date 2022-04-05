@@ -18,11 +18,11 @@ Indice
 * :ref:`Processo`
 	* Peças
 	* :ref:`Estações`
-		* :ref:`Estacao11`
-		* :ref:`Estacao12`
-		* :ref:`Estacao13`
-		* :ref:`Estacao14`
-  		* :ref:`Estacao15` 
+		* :ref:`Estacao10`
+		* :ref:`Estacao20`
+		* :ref:`Estacao30`
+		* :ref:`Estacao40`
+  		* :ref:`Estacao50` 
 * :ref:`Hardware`
 	* :ref:`Componentes`
 		* (Add Then Later)
@@ -38,83 +38,87 @@ Indice
 	* :ref:`Draw_io`
 * :ref:`Manuais`
 * :ref:`Lines`
-	* `Line 11`_ 
-		* `2020_2021`_		
-		* `2021_2022`_
-		* `2022_2023`_ 
-	* `Line 12`_ 
-		* `2020_2021`_ 		
-		* `2021_2022`_ 
-		* `2022_2023`_ 
-	* `Line 13`_ 
-		* `2020_2021`_ 		
-		* `2021_2022`_ 
-		* `2022_2023`_ 
+	* :ref:`Line_11`
+		* :ref:`2020_20211`
+		* :ref:`2021_20221`
+		* :ref:`2022_20231`
+	* :ref:`Line_12` 
+		* :ref:`2020_20212`
+		* :ref:`2021_20222`
+		* :ref:`2022_20232`
+	* :ref:`Line_13`
+		* :ref:`2020_20213`
+		* :ref:`2021_20223`
+		* :ref:`2022_20233`
 * `Relatório`_
+
 
 
 .. _Sphinx: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
 
-
-
 .. _Relatório: ./index/report.html
-
-
-
 
 .. _Introdução:
 
 Introdução
 ----------
 
-.. _Processo:
+As Linhas 11, 12 e 13, do Grupo 10, dividem-se em 5 estações das quais resultam:
 
-(Add Later)
+* *Gestão de Stock e Enchimento (Estação 10)*
+* *Selagem (Estação 20)*
+* *Analise (Estação 30)*
+* *Organizador (Estação 40)*
+* *Armazenamento (Estação 50)*
+
+.. _Processo:
 
 Processo
 --------
 
-(Add Later)
+O Grupo 10, consiste num de linhas em que cada uma delas contém um conjunto de estações, cada uma com Equipamentos/Componentes independentes.
+As Linhas 11, 12 e 13, assim com cada uma da estações, funcionam usando sistemas pneumáticos e sistemas eletromecânicos.
 
 .. _Estações:
 
 Estações 
 --------
 
-.. _Estacao11:
+.. _Estacao10:
 
-Estação 11
+Estação 10
 ~~~~~~~~~~
 
-(Add Later)
+*Gestão de Stock e Enchimento*
 
-.. _Estacao12:
 
-Estação 12
+.. _Estacao20:
+
+Estação 20
 ~~~~~~~~~~
 
-(*Add Later*)
+*Selagem*
 
-.. _Estacao13:
+.. _Estacao30:
 
-Estação 13
+Estação 30
 ~~~~~~~~~~
 
-(Add Later)
+*Analise*
 
-.. _Estacao14:
+.. _Estacao40:
 
-Estação 14
+Estação 40
 ~~~~~~~~~~
 
-(Add Later)
+*Organizador*
 
-.. _Estacao15:
+.. _Estacao50:
 
-Estação 15
+Estação 50
 ~~~~~~~~~~
 
-(Add Later)
+*Armazenamento*
 
 .. _Hardware:
 
@@ -166,7 +170,65 @@ Manuais
 Lines
 -----
 
+.. _Line_11:
 
+Line 11
+-------
+
+.. _2020_20211:
+
+2020_2021
+~~~~~~~~~
+
+.. _2021_20221:
+
+2021_2022
+~~~~~~~~~
+
+.. _2022_20231:
+
+2022_2023
+~~~~~~~~~
+
+.. _Line_12:
+
+Line 12
+-------
+
+.. _2020_20212:
+
+2020_2021
+~~~~~~~~~
+
+.. _2021_20222:
+
+2021_2022
+~~~~~~~~~
+
+.. _2022_20232:
+
+2022_2023
+~~~~~~~~~
+
+.. _Line_13:
+
+Line 13
+-------
+
+.. _2020_20213:
+
+2020_2021
+~~~~~~~~~
+
+.. _2021_20223:
+
+2021_2022
+~~~~~~~~~
+
+.. _2022_20233:
+
+2022_2023
+~~~~~~~~~
 
 
 
